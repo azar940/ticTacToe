@@ -1,0 +1,13 @@
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\bin\Debug\netcoreapp3.1\tictoctay.exe
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\bin\Debug\netcoreapp3.1\tictoctay.deps.json
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\bin\Debug\netcoreapp3.1\tictoctay.runtimeconfig.json
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\bin\Debug\netcoreapp3.1\tictoctay.runtimeconfig.dev.json
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\bin\Debug\netcoreapp3.1\tictoctay.dll
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\bin\Debug\netcoreapp3.1\tictoctay.pdb
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\obj\Debug\netcoreapp3.1\tictoctay.csprojAssemblyReference.cache
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\obj\Debug\netcoreapp3.1\tictoctay.AssemblyInfoInputs.cache
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\obj\Debug\netcoreapp3.1\tictoctay.AssemblyInfo.cs
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\obj\Debug\netcoreapp3.1\tictoctay.csproj.CoreCompileInputs.cache
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\obj\Debug\netcoreapp3.1\tictoctay.dll
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\obj\Debug\netcoreapp3.1\tictoctay.pdb
+C:\Users\AZAR\source\repos\tictoctay\tictoctay\obj\Debug\netcoreapp3.1\tictoctay.genruntimeconfig.cache
